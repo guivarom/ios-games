@@ -1,0 +1,4020 @@
+{
+    "records": [
+        {
+            "title": "ARK: Survival Evolved",
+            "href": "https://apps.apple.com/app/id1280480538",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/a9/62/68/a962688a-1e74-ad74-ef56-b8af0df83b76/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/58a/58ac7f6569259dcc0b60b921869b19fc.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 59,
+                    "name": "Massively Multiplayer",
+                    "slug": "massively-multiplayer"
+                }
+            ]
+        },
+        {
+            "title": "Actraiser Renaissance",
+            "href": "https://apps.apple.com/app/id1532193171",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/f2/00/38/f20038be-a6a1-81aa-65bb-29821d25f70b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$19.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/054/054a3d28b7102f0597571e5ef8dd3ad7.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Alien: Isolation",
+            "href": "https://apps.apple.com/app/id1573029040",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/6d/90/e8/6d90e8ed-f4d9-a967-779d-8a61b960ff71/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$14.99",
+            "bgImage": "https://media.rawg.io/media/games/daa/daaee07fcb40744d90cf8142f94a241f.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Baba Is You",
+            "href": "https://apps.apple.com/app/id1517281887",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/bf/6d/a8/bf6da8fd-ddfa-e827-98e0-1bee2e20cab7/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/games/2f9/2f9daccd45b511c97584bcb5a82404a5.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Bad North: Jotunn Edition",
+            "href": "https://apps.apple.com/app/id1367121168",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/8c/06/79/8c06794a-e7d5-5501-7775-8c492722d46f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$3.99",
+            "bgImage": "https://media.rawg.io/media/games/1a9/1a9b0f3ff24aefe69a0ebad2959ddce5.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Baldur's Gate",
+            "href": "https://apps.apple.com/app/id515114051",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/c4/8a/a5/c48aa55d-4ea9-9f89-ac15-112843b187f2/AppIcon-BGEE-1x_U007emarketing-85-220-5.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/games/a91/a9108384b5d691080b294cd744f350c9.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Baldur's Gate II: EE",
+            "href": "https://apps.apple.com/app/id633625517",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/20/96/fe/2096fe57-1989-ddbb-f854-f84a4dc646dc/AppIcon-BG2EE-1x_U007emarketing-85-220-8.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/e0a/e0abaefbcc99ef995be57d857806f2d2.jpeg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Banner Saga",
+            "href": "https://apps.apple.com/app/id911006986",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/ac/27/1f/ac271f6f-279f-5ad8-240c-98158883e9be/mzl.lkiwlllj.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/games/fa3/fa3dd043cba3a9cbfe3085e75d92bf7e.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Banner Saga 2",
+            "href": "https://apps.apple.com/app/id1107741196",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/8f/f8/a8/8ff8a814-343b-357e-0f73-83977d29e56a/mzl.rxodhrxv.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/games/3af/3af9976b83868a1042eac59531a1a986.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Bastion",
+            "href": "https://apps.apple.com/app/id1467063160",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/5a/50/38/5a503818-dd8a-ed46-0f22-15ee6e9f5fa2/AppIcon-0-0-1x_U007emarketing-0-0-0-6-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/f99/f9979698c43fd84c3ab69280576dd3af.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Battle Chasers: Nightwar",
+            "href": "https://apps.apple.com/app/id1455088996",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/7f/9b/ff/7f9bff4d-ca3b-51b7-bf27-3a6b39cde500/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/games/b89/b893db1513e56562a464398b18d1960c.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Bridge Constructor",
+            "href": "https://apps.apple.com/app/id503190232",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/d4/bf/1c/d4bf1c79-259f-6faa-169d-c840a0ab6964/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$1.99",
+            "bgImage": "https://media.rawg.io/media/games/189/189b1795ab39eda546c95bbcdd3c7e60.jpg",
+            "genres": [
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Bridge Constructor Medieval",
+            "href": "https://apps.apple.com/app/id814323051",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/e4/7f/c8/e47fc8b8-348d-267c-073f-c4ea7e1e9cff/mzl.ajzqykbn.png/460x0w.webp",
+            "price": "$1.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/0a3/0a3f0cc0da746f3562ab6a067b9233f1.jpg",
+            "genres": [
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Bridge Constructor Playground",
+            "href": "https://apps.apple.com/app/id578203499",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c6/83/40/c683400c-1abe-e548-132b-6d0f3f01ceb1/mzl.tdwygbzd.jpg/460x0w.webp",
+            "price": "$1.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/957/9575ef30b113e0f3f4d629a64474212d.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                },
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                }
+            ]
+        },
+        {
+            "title": "Bridge Constructor Portal",
+            "href": "https://apps.apple.com/app/id1311353234",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/77/89/bb/7789bb70-d222-807e-39d8-db1d0eb14878/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/cc2/cc2a1f137e7166adebe419cbcc86d207.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Bridge Constructor Stunts",
+            "href": "https://apps.apple.com/app/id1021586545",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/bb/9c/3a/bb9c3a7f-3b9a-e8b5-44e7-e4dc8d5d1529/mzl.cihumbqu.png/460x0w.webp",
+            "price": "$1.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/ba5/ba5c033f68375551b3f61e85c569dfd9.jpg",
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Bridge Constructor: TWD",
+            "href": "https://apps.apple.com/app/id1510735231",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/f0/99/4b/f0994b76-79fa-b578-e5d2-ab7817489f38/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$2.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/449/4498eba78e8911ff8dbeec5592ce10d8_oXvjMcG.jpg",
+            "genres": [
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Brothers: A Tale of Two Sons",
+            "href": "https://apps.apple.com/app/id1029588869",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/3e/8c/f2/3e8cf28d-7488-c8d9-166c-833bdc8a923c/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/460x0w.webp",
+            "price": "$2.99",
+            "bgImage": "https://media.rawg.io/media/games/b6b/b6b20bfc4b34e312dbc8aac53c95a348.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Bully: Anniversary Edition",
+            "href": "https://apps.apple.com/app/id1148321705",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/29/b5/31/29b5314a-428e-725e-e24b-10322370dc0c/AppIcon-0-1x_U007emarketing-0-85-220-0-6.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/607/607c822d3311f20736699d68d89ad331.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "CHRONO TRIGGER (Upgrade Ver.)",
+            "href": "https://apps.apple.com/app/id479431697",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/c6/12/46/c612460e-0210-2df6-2033-fc6dc98cd461/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/cd1/cd1dedeafe91fa1d9034dba0c3dcb1f7.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Castlevania: SotN",
+            "href": "https://apps.apple.com/app/id1435456830",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/26/29/f2/2629f205-84ed-5a4a-fc4a-0dc6cd124ce6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
+            "price": "$2.99",
+            "bgImage": "https://media.rawg.io/media/games/45d/45da4dc311d84b79230317d7b24a3dec.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Civilization Revolution 2",
+            "href": "https://apps.apple.com/app/id864880531",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/27/b5/c9/27b5c966-d079-453a-a593-1cb577147024/AppIcon-1x_U007emarketing-85-220-5.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/c32/c32c0169d4a0abde530d46b47a2215fa.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 34,
+                    "name": "Educational",
+                    "slug": "educational"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Company of Heroes",
+            "href": "https://apps.apple.com/app/id1464645812",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/fd/8b/56/fd8b561e-3f04-8559-2f70-cd21ca94c869/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$13.99",
+            "bgImage": "https://media.rawg.io/media/games/0fa/0fadc446fd1e9ae9e23a32793d9a5406.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                }
+            ]
+        },
+        {
+            "title": "Crying Suns",
+            "href": "https://apps.apple.com/app/id1511788295",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/ab/9c/4f/ab9c4fdd-461b-de2d-95c0-100aa4f72189/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$5.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/e97/e97020b39abc864e3cdf4e7e564c402c.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Crypt of the NecroDancer",
+            "href": "https://apps.apple.com/app/id1085123968",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ad/35/72/ad357210-ce0a-dc9a-5d5d-cfb7a22e4084/AppIcon-0-0-1x_U007emarketing-0-0-0-6-85-220.png/460x0w.webp",
+            "price": "$3.99",
+            "bgImage": "https://media.rawg.io/media/games/70a/70a7a7b21d8fdf5f19622e5e14599bcd.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Cultist Simulator",
+            "href": "https://apps.apple.com/app/id1439886655",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/01/4a/9c/014a9c37-02c6-cb8e-91e5-d0de47217a39/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/games/ec5/ec58c8b204da0d48448e7c2d148d0110.jpg",
+            "genres": [
+                {
+                    "id": 17,
+                    "name": "Card",
+                    "slug": "card"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "DOOM",
+            "href": "https://apps.apple.com/app/id336347946",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/40/b2/f1/40b2f13e-2872-0501-22cc-6ba1b9bf0b05/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/c4b/c4b0cab189e73432de3a250d8cf1c84e.jpg",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "DOOM II",
+            "href": "https://apps.apple.com/app/id1470090748",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/9e/d0/f5/9ed0f5e1-48f8-64fd-ba32-7b4d7d167ae7/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/38a/38af969459ad6e5de116ec8a4a84218c.jpg",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "DRAGON QUEST",
+            "href": "https://apps.apple.com/app/id911201894",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/b1/5e/5e/b15e5e9e-a553-2fc7-09e8-bab6d269fdd0/AppIcon-1x_U007emarketing-0-85-220-0-9.png/460x0w.webp",
+            "price": "$2.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/ecb/ecbb1fe5a3b0e585c2a2e58a39762f38.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "DRAGON QUEST II",
+            "href": "https://apps.apple.com/app/id911205290",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/9c/40/92/9c40927f-41b4-1aa5-850c-3b3b13dfcda2/AppIcon-1x_U007emarketing-0-85-220-0-9.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/a2d/a2d313d96877e0793ca91a57d8efe7a2.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "DRAGON QUEST III",
+            "href": "https://apps.apple.com/app/id911208088",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/b9/a7/34/b9a734b5-879d-eccd-a1f2-ad12ca4dc503/AppIcon-0-0-1x_U007emarketing-0-0-0-10-85-220-0.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/b99/b99368acaff24dbda444f4ed613fedd1.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "DRAGON QUEST IV",
+            "href": "https://apps.apple.com/app/id847381935",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c0/3b/4e/c03b4e91-c5c6-77c6-dda9-aa1e92efcc84/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$14.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/f78/f781d03e891f27806175d1c615191c3f.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "DRAGON QUEST V",
+            "href": "https://apps.apple.com/app/id933113994",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/87/3c/d4/873cd4a3-b38a-3a0d-9f2a-a164b522eb05/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$14.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/66e/66ebd45feceb60f2666766390cfbcf35.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "DRAGON QUEST VI",
+            "href": "https://apps.apple.com/app/id949745100",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c6/d0/f4/c6d0f4a9-7fe6-f52b-2a29-750e733cd77b/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/460x0w.webp",
+            "price": "$14.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/359/3597be1d6155a37e0f8b784db757c34d.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "DRAGON QUEST VIII",
+            "href": "https://apps.apple.com/app/id862972069",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/60/da/61/60da6191-38cf-bb1c-dd5b-41dc70411385/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/460x0w.webp",
+            "price": "$19.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/90b/90b54298e3285fd474bf27877e0c8a89.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Dandara Trials of Fear",
+            "href": "https://apps.apple.com/app/id1168013926",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2f/2f/67/2f2f67e2-4924-11e4-970b-fe6076f7c636/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/460x0w.webp",
+            "price": "$3.99",
+            "bgImage": "https://media.rawg.io/media/games/839/83924d4b0be37f607d14a5c463dc0e47.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 83,
+                    "name": "Platformer",
+                    "slug": "platformer"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Darkest Dungeon:Tablet Edition",
+            "href": "https://apps.apple.com/app/id1199831446",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/94/3d/53/943d53ae-7fe8-7b0d-d7b8-7ef66e1de353/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/557/557bb4779a297bce4d37e79e0790af97.jpg",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Dead Cells",
+            "href": "https://apps.apple.com/app/id1389752090",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/b9/ef/a6b9ef9b-35c5-aa51-7512-31ee0a432fae/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$8.99",
+            "bgImage": "https://media.rawg.io/media/games/f90/f90ee1a4239247a822771c40488e68c5.jpg",
+            "genres": [
+                {
+                    "id": 83,
+                    "name": "Platformer",
+                    "slug": "platformer"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Dear Esther",
+            "href": "https://apps.apple.com/app/id1476531719",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/e1/09/05/e109053a-ecc7-8149-fd05-70f3b7599ce4/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/460x0w.webp",
+            "price": "$1.99",
+            "bgImage": "https://media.rawg.io/media/games/bc6/bc6b163403504d0c041253749e233ed3.jpg",
+            "genres": [
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                }
+            ]
+        },
+        {
+            "title": "Disgaea 1 Complete",
+            "href": "https://apps.apple.com/app/id1479933497",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/96/d4/f0/96d4f0bf-39df-11ce-0ed9-71e5bc16fe80/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/460x0w.webp",
+            "price": "$32.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/04e/04e52a033723e86c0e08d8d86d140403.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Divinity - Original Sin 2",
+            "href": "https://apps.apple.com/app/id1458655678",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/44/ca/a344cadc-af09-f388-0078-0fd3e5ff5505/Divinity2Icon-1x_U007emarketing-5-0-85-220.png/460x0w.webp",
+            "price": "$24.99",
+            "bgImage": "https://media.rawg.io/media/games/424/424facd40f4eb1f2794fe4b4bb28a277.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Don't Starve: Pocket Edition",
+            "href": "https://apps.apple.com/app/id1012298403",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/79/3f/e0/793fe0b5-d0c1-d4fd-7ecc-379dce01d568/Normal_Icon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/fcf/fcf5e30620cd7ee66f2a86674903dd11.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                }
+            ]
+        },
+        {
+            "title": "Don't Starve: Shipwrecked",
+            "href": "https://apps.apple.com/app/id1147297267",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/7a/5a/a97a5af8-9251-733f-eafb-c49ae0b5631d/AppIcon-0-1x_U007emarketing-0-85-220-10.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/66d/66dca08d36f0cd820c91d97c73a30924.jpeg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Donut County",
+            "href": "https://apps.apple.com/app/id1292099839",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/85/45/ba/8545baa3-06c2-7255-f5bb-44550affb189/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/035/035b7bd6d015e07e501d2234ec629dc3.jpg",
+            "genres": [
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Duke Nukem: Manhattan Project",
+            "href": "https://apps.apple.com/app/id663811684",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/a3/7a/da/a37adacf-fe39-3571-1eca-829bb0779499/mzl.uucdzjda.png/460x0w.webp",
+            "price": "$1.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/e16/e1609a34db8b2bf371487bae98083ed2.jpg",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Dungeon of the Endless: Apogee",
+            "href": "https://apps.apple.com/app/id1526466468",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/e4/3d/f8/e43df895-dc78-e269-7929-818d251b1506/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$7.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/ffc/ffcda1518947d40623e3da4848a90659_ZNCiuSZ.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Element - RTS",
+            "href": "https://apps.apple.com/app/id749488884",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/cb/02/63/cb0263a8-8c21-5c09-8819-bdf5a45298cf/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$2.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/541/541813743bbfc282f3c2566ae873f057_btkRnux.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Escapists 2: Pocket Breakout",
+            "href": "https://apps.apple.com/app/id1356167732",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a5/17/fe/a517fe3f-20e2-5acb-cba9-eab4d604cf16/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/4f4/4f4c5dcb6ae03369eacc9f1b11ddc498_1WPsp0i.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Evoland",
+            "href": "https://apps.apple.com/app/id946477821",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/72/06/17/720617ab-f65e-2e21-4bef-3ab5cd906a57/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-3.png/460x0w.webp",
+            "price": "$2.99",
+            "bgImage": "https://media.rawg.io/media/games/7d6/7d6d8bbcdec1a1ad14cd6bbca325a8c0.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 11,
+                    "name": "Arcade",
+                    "slug": "arcade"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                }
+            ]
+        },
+        {
+            "title": "Evoland 2",
+            "href": "https://apps.apple.com/app/id1291427111",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/55/8f/ab558fae-a183-90f3-f6aa-e605c3afe6d8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$0.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/d2e/d2e117a863a87367d2589a7b0d6d4854_hFYCmjZ.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 11,
+                    "name": "Arcade",
+                    "slug": "arcade"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                }
+            ]
+        },
+        {
+            "title": "FEZ Pocket Edition",
+            "href": "https://apps.apple.com/app/id1209489068",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/48/36/14/4836147f-2d11-33f7-7be4-9f4db7e709cb/AppIcon-0-1x_U007emarketing-0-85-220-7.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/4cb/4cb855e8ef1578415a928e53c9f51867.png",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 83,
+                    "name": "Platformer",
+                    "slug": "platformer"
+                }
+            ]
+        },
+        {
+            "title": "FF IV: THE AFTER YEARS",
+            "href": "https://apps.apple.com/app/id683029090",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/47/e3/c4/47e3c498-f62e-671b-d75d-7a9892ea8e94/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/460x0w.webp",
+            "price": "$14.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/525/525b5da62342fa726bfe2820e8f93c09.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "FINAL FANTASY",
+            "href": "https://apps.apple.com/app/id1492041278",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/d3/47/fa/d347faf3-0bd7-9ad8-8e42-6b031a2c84ee/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$11.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/656/6566c32aebb7b23af0573091132c2f2c.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "FINAL FANTASY II",
+            "href": "https://apps.apple.com/app/id1492041252",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/31/6b/2d/316b2db0-7bb5-f5d1-abe3-2dfabc0358d8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$11.99",
+            "bgImage": "https://media.rawg.io/media/games/f29/f29af1b9d00800b26af2a6fda55aa3b9.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "FINAL FANTASY III",
+            "href": "https://apps.apple.com/app/id1492041436",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/5b/24/46/5b2446e3-3869-fbb7-99f2-53591dd68613/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$13.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/bf0/bf08a4fb21df12939e94782ccfa7a858.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "FINAL FANTASY III (3D REMAKE)",
+            "href": "https://apps.apple.com/app/id424591347",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/1f/11/28/1f112815-f294-bacb-340b-9a446e42c662/AppIcon-1x_U007emarketing-0-5-0-85-220.png/460x0w.webp",
+            "price": "$11.99",
+            "bgImage": "https://media.rawg.io/media/games/d89/d89bd0cf4fcdc10820892980cbba0f49.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "FINAL FANTASY III for iPad(3D)",
+            "href": "https://apps.apple.com/app/id430823968",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/6f/78/1d/6f781d40-52ec-c59e-1599-bd7dcfce05ac/AppIcon-1x_U007emarketing-5-0-85-220.png/460x0w.webp",
+            "price": "$12.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/bf0/bf08a4fb21df12939e94782ccfa7a858.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "FINAL FANTASY IV",
+            "href": "https://apps.apple.com/app/id1492041417",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/91/90/17/91901754-8479-b4a1-6e23-8aadf5ed4a82/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$17.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/cb5/cb5fee4db77e93350719dc151a33d13f.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "FINAL FANTASY IV (3D REMAKE)",
+            "href": "https://apps.apple.com/app/id575119311",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/9f/fb/08/9ffb0805-9702-d0ab-3203-495b0e1bcbed/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$14.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/cb5/cb5fee4db77e93350719dc151a33d13f.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "FINAL FANTASY TACTICS",
+            "href": "https://apps.apple.com/app/id500098096",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/a3/f1/e7a3f1c8-b40c-8c60-2446-f2323e5660b0/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-85-220.png/460x0w.webp",
+            "price": "$15.99",
+            "bgImage": "https://media.rawg.io/media/games/30c/30c067f9a6736000c8faf2efe4952a9b.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "FINAL FANTASY TACTICS :WotL",
+            "href": "https://apps.apple.com/app/id446760220",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/7a/ca/48/7aca48f2-eec8-3c94-7511-c015d2e601f2/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-85-220.png/460x0w.webp",
+            "price": "$13.99",
+            "bgImage": "https://media.rawg.io/media/games/30c/30c067f9a6736000c8faf2efe4952a9b.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "FINAL FANTASY VII",
+            "href": "https://apps.apple.com/app/id1021566244",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/fe/64/2b/fe642b2f-be29-77db-9ac2-fd6c3523f11b/mzl.bzwuxqeq.png/460x0w.webp",
+            "price": "$15.99",
+            "bgImage": "https://media.rawg.io/media/games/d89/d89bd0cf4fcdc10820892980cbba0f49.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "FINAL FANTASY VIII Remastered",
+            "href": "https://apps.apple.com/app/id1326740784",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/e1/eb/f0/e1ebf04a-e9d4-ff4e-8e5f-121f873f91cf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$20.99",
+            "bgImage": "https://media.rawg.io/media/games/1ac/1ac050b86c87138ce6a3354aa90db894.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "FINALFANTASY CRYSTALCHRONICLES",
+            "href": "https://apps.apple.com/app/id1478870957",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/7f/11/29/7f1129c5-3e04-5044-fc31-4d1a5ca227d9/AppIcon-1x_U007emarketing-0-6-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/screenshots/79a/79a7a5d017777867513549a358046384_VzDQjWt.jpg",
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "FTL: Faster Than Light",
+            "href": "https://apps.apple.com/app/id833951143",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/30/57/79/3057795d-bdf4-8c0f-c433-f36b85d141fb/AppIcon-1x_U007emarketing-0-10-85-220.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/games/5f4/5f4780690dbf04900cbac5f05b9305f3.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Fallout Shelter",
+            "href": "https://apps.apple.com/app/id991153141",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/34/7f/38/347f3823-4d47-5a8f-b594-daa5674eaab2/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/a91/a911f0a91991469e398fa70091507a5b.jpg",
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Florence",
+            "href": "https://apps.apple.com/app/id1297430468",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/b3/e6/8a/b3e68a4c-b7cf-85d5-c9ae-bc9b39500452/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/460x0w.webp",
+            "price": "$2.99",
+            "bgImage": "https://media.rawg.io/media/games/a52/a52908e971191d326caba0bf9857b856.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                },
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 19,
+                    "name": "Family",
+                    "slug": "family"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                }
+            ]
+        },
+        {
+            "title": "Flower",
+            "href": "https://apps.apple.com/app/id1279174518",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/22/c9/fd/22c9fd6b-36c6-5efd-09e0-a059f9c9e929/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/4bc/4bc75319da5601d337452ca0462255ab.jpg",
+            "genres": [
+                {
+                    "id": 11,
+                    "name": "Arcade",
+                    "slug": "arcade"
+                },
+                {
+                    "id": 19,
+                    "name": "Family",
+                    "slug": "family"
+                },
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                }
+            ]
+        },
+        {
+            "title": "Forager",
+            "href": "https://apps.apple.com/app/id1525624394",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/7c/63/09/7c6309c6-5636-a0d9-5b78-848118a65dc6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$7.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/467/467ec166bdb3c8f8232e205047194dba.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                }
+            ]
+        },
+        {
+            "title": "GRID™ Autosport",
+            "href": "https://apps.apple.com/app/id1179421849",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/76/87/7c/76877cec-b5ff-a8ae-dffa-f0710b23bc67/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/games/973/973b8b5538d064a73f0c3b745827254c.jpg",
+            "genres": [
+                {
+                    "id": 1,
+                    "name": "Racing",
+                    "slug": "racing"
+                },
+                {
+                    "id": 15,
+                    "name": "Sports",
+                    "slug": "sports"
+                }
+            ]
+        },
+        {
+            "title": "GRIS",
+            "href": "https://apps.apple.com/app/id1445379072",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/e3/ef/a7/e3efa728-6f4d-17b6-f6ab-7a4575beea6f/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 83,
+                    "name": "Platformer",
+                    "slug": "platformer"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "GTA: Chinatown Wars",
+            "href": "https://apps.apple.com/app/id344186162",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/f1/36/07/f13607db-c840-88c8-40bf-d57943274070/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/bcd/bcdadb5dd2be66dd4dd1f657275b3f8e.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "GTA: Liberty City Stories",
+            "href": "https://apps.apple.com/app/id1061802598",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/cd/b7/9d/cdb79d60-9276-e0a3-550c-aa20f0317d1f/AppIcon-0-1x_U007emarketing-0-85-220-10.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/games/212/21215abf004beda8b6c67255028a6696.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "GWENT: The Witcher Card Game",
+            "href": "https://apps.apple.com/app/id1466943149",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/43/a7/d443a7f3-97f0-00c3-a624-af66f0621ae4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/742/7424c1f7d0a8da9ae29cd866f985698b.jpg",
+            "genres": [
+                {
+                    "id": 17,
+                    "name": "Card",
+                    "slug": "card"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 28,
+                    "name": "Board Games",
+                    "slug": "board-games"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Game Dev Tycoon",
+            "href": "https://apps.apple.com/app/id1162580001",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/71/09/55/71095589-1590-75a6-9034-ec8c904a0386/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/e70/e7009d889b38df2a16f78859a7343308.jpg",
+            "genres": [
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Getting Over It",
+            "href": "https://apps.apple.com/app/id1319618742",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/5e/1e/40/5e1e40d4-45fc-94d8-fbc6-f35f4fbf6fb7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/941/941f173c573feebf92d62fad118d004e.jpg",
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Goat Simulator",
+            "href": "https://apps.apple.com/app/id868692227",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/43/43/bb/4343bbe8-29af-cdfc-1a4b-adcd5e8c2480/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/games/a44/a444a7628bdb49b24d06a7672f805814.jpg",
+            "genres": [
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Grand Theft Auto III",
+            "href": "https://apps.apple.com/app/id479662730",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/c3/a1/b8c3a11d-c7cc-d9a6-7120-880c3ad4412f/AppIcon-0-1x_U007emarketing-85-220-4.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/5fa/5fae5fec3c943179e09da67a4427d68f.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Grand Theft Auto: San Andreas",
+            "href": "https://apps.apple.com/app/id763692274",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/6d/92/8a/6d928aa4-847e-5692-8c07-72f772b271a7/AppIcon-2-0-1x_U007emarketing-0-85-220-10.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Grand Theft Auto: Vice City",
+            "href": "https://apps.apple.com/app/id578448682",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/57/01/fd/5701fd72-a6a2-35db-0710-30a0fb014cc6/AppIcon-0-1x_U007emarketing-85-220-4.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Grim Fandango Remastered",
+            "href": "https://apps.apple.com/app/id978524071",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/9a/ea/e6/9aeae6be-474c-9335-33ec-221ad7ea2833/AppIcon-1x_U007emarketing-85-220-4.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/df2/df20fd77db56ae7b0a26a7ff4baa9ccc.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Halcyon 6: Starbase Commander",
+            "href": "https://apps.apple.com/app/id1264707038",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/82/b4/fa/82b4fa8f-d831-5d5d-784b-303c0bb04ccf/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/e40/e400df873b9e5ffb03f0abc3e5943b9d.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Hearthstone",
+            "href": "https://apps.apple.com/app/id625257520",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/4b/05/f14b0516-8bd0-3a71-8687-6d4d03caf627/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/1db/1dbc3d0c9de2709e21326cdcb91468ae.jpg",
+            "genres": [
+                {
+                    "id": 17,
+                    "name": "Card",
+                    "slug": "card"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                }
+            ]
+        },
+        {
+            "title": "Human: Fall Flat",
+            "href": "https://apps.apple.com/app/id1438091392",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/b6/80/35/b68035f2-4a5b-d87b-26b0-81b628ec0fbf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/74d/74dafeb9a442b87b9dd4a1d4a2faa37b.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Huntdown",
+            "href": "https://apps.apple.com/app/id1198183067",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/57/ce/9a/57ce9ab8-b397-5c34-6de6-a0e69093de97/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/games/5cb/5cb897cd1000906d2467ea4d0bdf1af4.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Hyper Light Drifter",
+            "href": "https://apps.apple.com/app/id1453875289",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/c3/37/e1/c337e14f-ffda-948e-cd37-c97548f34a23/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/578/57885b9590c9a9f80ceea34d147a34c4.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Icewind Dale",
+            "href": "https://apps.apple.com/app/id909472985",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/5c/0b/15/5c0b15c7-ba3f-61c3-d4d4-d50cc8c08122/AppIcon-IWDEE-1x_U007emarketing-85-220-8.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/games/e77/e77d7707d4cb2b2c3c642fb9dc124cf9.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "If Found...",
+            "href": "https://apps.apple.com/app/id1440072561",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/ca/f5/c1/caf5c16c-5efe-a9e0-1d61-34939b05b64b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/1ba/1ba281ea404d16ddef6cbe30f4c5028d.jpg",
+            "genres": [
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                }
+            ]
+        },
+        {
+            "title": "Invisible, Inc.",
+            "href": "https://apps.apple.com/app/id1147331964",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/a8/7a/91/a87a9127-3893-8ce2-f342-931a5ec754c3/mzl.ebwvmrhz.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/849/849c187c0b5d4cd1ee3283148f7e4cdb.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                }
+            ]
+        },
+        {
+            "title": "Iris and the Giant",
+            "href": "https://apps.apple.com/app/id1489491274",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/af/42/76/af4276da-a6cb-ebbe-cdee-96c76a22f641/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$5.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/bab/bab54e49670c2db1100dd241a932c1ee.jpg",
+            "genres": [
+                {
+                    "id": 17,
+                    "name": "Card",
+                    "slug": "card"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "JYDGE",
+            "href": "https://apps.apple.com/app/id1212865786",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/f2/37/bc/f237bc10-7506-9f46-b0e9-0a5c57b651bc/AppIcon-1x_U007emarketing-0-4-0-85-220.png/460x0w.webp",
+            "price": "$8.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/69e/69e48c5571c954c9206897ab4e2ae31d.jpg",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                }
+            ]
+        },
+        {
+            "title": "Jade Empire™: Special Edition",
+            "href": "https://apps.apple.com/app/id1108475553",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/11/e3/70/11e3704c-0b9a-1229-6ccf-18e54d3c9cac/mzl.egfyuklq.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/games/1f0/1f0f1e699f80b56a44078317d5b08923.jpg",
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Journey",
+            "href": "https://apps.apple.com/app/id1445593893",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/36/de/66/36de66fc-249e-a61a-f091-6552dad1f711/AppIcon-1x_U007emarketing-0-4-85-220.jpeg/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/baf/baf9905270314e07e6850cffdb51df41.jpg",
+            "genres": [
+                {
+                    "id": 19,
+                    "name": "Family",
+                    "slug": "family"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                }
+            ]
+        },
+        {
+            "title": "Kingdom Two Crowns",
+            "href": "https://apps.apple.com/app/id1477991646",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/34/3f/eb343ffd-7b12-e96e-d3b5-148513d1519f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/games/f15/f15236ba62fdb1c04cfb4d5a40168f54.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                }
+            ]
+        },
+        {
+            "title": "LEGO® Star Wars™: TCS",
+            "href": "https://apps.apple.com/app/id727420266",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/ff/34/eb/ff34ebb4-318e-9d1c-d7f3-501e24e843f5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/screenshots/aad/aadf5972632dc2ccdacacaf191475c7a.jpg",
+            "genres": [
+                {
+                    "id": 19,
+                    "name": "Family",
+                    "slug": "family"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Layers of Fear",
+            "href": "https://apps.apple.com/app/id1079035032",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/78/38/44/78384413-29a1-ccff-5aec-34c55d086433/mzl.jlzzcmrp.png/460x0w.webp",
+            "price": "$19.99",
+            "bgImage": "https://media.rawg.io/media/games/6a2/6a2e48933245e2cd3c92248c75c925e1.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                }
+            ]
+        },
+        {
+            "title": "League of Legends: Wild Rift",
+            "href": "https://apps.apple.com/app/id1480616990",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/65/14/78/6514788b-3ddf-7765-9121-bcd8ed325817/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/3c7/3c773379b9a4161528bf12a2c9346e93.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Legend of Mana",
+            "href": "https://apps.apple.com/app/id1563156209",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/48/c9/3b48c9b6-e3e8-fb92-f9b6-cc1c4d049d1e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$27.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/ad9/ad9ffcc4613206996ace65f150d006f5.jpg",
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Legends of Runeterra",
+            "href": "https://apps.apple.com/app/id1480617557",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/f2/9d/d6f29d26-7f99-a790-dc93-0a9cfcc35a1e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/533/5333339e3251bbe60124f134d8ef9049.jpg",
+            "genres": [
+                {
+                    "id": 17,
+                    "name": "Card",
+                    "slug": "card"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                }
+            ]
+        },
+        {
+            "title": "Life Is Strange",
+            "href": "https://apps.apple.com/app/id1180101534",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/81/83/eb/8183eb3c-5a00-5cae-bceb-0acb87365ce8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                }
+            ]
+        },
+        {
+            "title": "Life is Strange: Before Storm",
+            "href": "https://apps.apple.com/app/id1293250289",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/db/38/c0/db38c0e6-39c7-c3df-5218-640b42bd540f/AppIcon-1x_U007emarketing-85-220-0-8.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/214/2140885d34e3a3398b45036e5d870971.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                }
+            ]
+        },
+        {
+            "title": "Lunar Silver Star Story Touch",
+            "href": "https://apps.apple.com/app/id492598036",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/d1/a9/69/d1a96962-2153-eecb-3991-d1f67513dfc0/AppIcon-1x_U007emarketing-85-220-3.jpeg/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/923/9230e217ba855728d0abfa60c036329a.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "MEGA MAN X",
+            "href": "https://apps.apple.com/app/id469343097",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/c9/37/23/c9372334-6db6-3823-9dfc-34d0dda972d7/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/b87/b876d9664840d7e2f53cf5c649476935.jpg",
+            "genres": [
+                {
+                    "id": 11,
+                    "name": "Arcade",
+                    "slug": "arcade"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Max Payne Mobile",
+            "href": "https://apps.apple.com/app/id512142109",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/32/5b/d5/325bd58b-0f0a-611c-d88e-275ca001d1ae/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/460x0w.webp",
+            "price": "$2.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/878/878193558aca97b9d07d38cee9e16fd4.jpg",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Mindustry",
+            "href": "https://apps.apple.com/app/id1385258906",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/8c/f1/5a/8cf15a30-6c42-972a-c9f8-52756195105c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$0.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/57b/57bf269a152051e20b7e988b5480e73d_HVza9eA.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Minecraft",
+            "href": "https://apps.apple.com/app/id479516143",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/74/ba/3f74ba78-8ce8-4449-2634-2a95dca713ff/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg",
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 11,
+                    "name": "Arcade",
+                    "slug": "arcade"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 59,
+                    "name": "Massively Multiplayer",
+                    "slug": "massively-multiplayer"
+                }
+            ]
+        },
+        {
+            "title": "Mini Metro",
+            "href": "https://apps.apple.com/app/id837860959",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/d7/29/39/d729390b-0710-cccf-7f33-61d24aadc6fb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$3.99",
+            "bgImage": "https://media.rawg.io/media/games/c49/c4983df94a8a8167d652b812de742da8.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "My Time at Portia",
+            "href": "https://apps.apple.com/app/id1555184523",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/51/30/a2/5130a215-3efc-0a26-e679-9f74b718ee35/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$7.99",
+            "bgImage": "https://media.rawg.io/media/games/176/1765390b699b432edc3a208d544c6ba0.jpg",
+            "genres": [
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "NEO Scavenger",
+            "href": "https://apps.apple.com/app/id1132258364",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/a4/c5/20/a4c520a2-1d0c-1c3d-7038-46b248b63c60/mzl.bmhqtbpo.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/screenshots/327/327e3b77e7a89ce5b6da47fb9c4588cd.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Need for Speed™ Most Wanted",
+            "href": "https://apps.apple.com/app/id540925164",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3d/ae/a8/3daea893-ff62-aaca-f529-5901a39b13fa/Icon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/41b/41ba37b6a3e706dc1d27d49afbf0f72a.jpg",
+            "genres": [
+                {
+                    "id": 1,
+                    "name": "Racing",
+                    "slug": "racing"
+                },
+                {
+                    "id": 11,
+                    "name": "Arcade",
+                    "slug": "arcade"
+                }
+            ]
+        },
+        {
+            "title": "Neverwinter Nights",
+            "href": "https://apps.apple.com/app/id1466096721",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/4d/72/68/4d72686f-cf36-da40-fce0-355696d322a5/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/games/aa3/aa3e6aa0f32fba9cd8f8ef4c46708152.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Nexomon",
+            "href": "https://apps.apple.com/app/id1254864644",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/e1/e3/5e/e1e35ec4-99dd-e320-1dad-95caa090141e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$0.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/853/853b0b21698ce3abe9b60a2b534da87e.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Nexomon: Extinction",
+            "href": "https://apps.apple.com/app/id1474335542",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/ee/a7/12/eea71232-cdae-cb78-cc35-687137832b81/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/c65/c65e07a823c169cfa9711f4d3d3ba74c.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Northgard",
+            "href": "https://apps.apple.com/app/id1533979882",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/94/26/62/9426620c-3f5c-903a-dfe5-7649306f1981/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$8.99",
+            "bgImage": "https://media.rawg.io/media/games/725/725d08c4174c129ce5275c43cd0347c6.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                }
+            ]
+        },
+        {
+            "title": "Oceanhorn ™",
+            "href": "https://apps.apple.com/app/id708196645",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/c4/62/87/c462872e-68b5-8b99-c9da-acc085395035/AppIconIOS-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/460x0w.webp",
+            "price": "$7.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/702/70266730557660c05891596b5ff10f99.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Oddworld: Munch's Oddysee",
+            "href": "https://apps.apple.com/app/id1001248922",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/fe/61/59/fe6159d0-5995-a3a1-aebf-a6048d584a1c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220-0.png/460x0w.webp",
+            "price": "$2.99",
+            "bgImage": "https://media.rawg.io/media/games/6a1/6a18cc31c5662a272af468f7d85c7528.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Oddworld: New 'n' Tasty",
+            "href": "https://apps.apple.com/app/id1090133581",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/34/70/86/3470863d-ac92-2681-1087-98fc233cbd4e/AppIcon-1x_U007emarketing-85-220-7.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/ba0/ba006ef12175ad4773e5964c320099c4.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 83,
+                    "name": "Platformer",
+                    "slug": "platformer"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Oddworld: Stranger's Wrath",
+            "href": "https://apps.apple.com/app/id923555295",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/26/0c/10/260c1053-b641-a1be-1cbd-9911cf7ba885/AppIcon-1x_U007emarketing-0-7-85-220-0.png/460x0w.webp",
+            "price": "$2.99",
+            "bgImage": "https://media.rawg.io/media/games/546/5464304424db26e3fbc7eaa8b7748f97.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Old School RuneScape",
+            "href": "https://apps.apple.com/app/id1269648762",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/66/63/65/666365d9-6f68-6cbc-6bca-1ed57cd4e6bf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/screenshots/aca/aca80d402fcf64ea31d63cafe14cc6d2.jpg",
+            "genres": [
+                {
+                    "id": 59,
+                    "name": "Massively Multiplayer",
+                    "slug": "massively-multiplayer"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Papers, Please",
+            "href": "https://apps.apple.com/app/id935216956",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/eb/18/62/eb1862f4-1a7f-1a6c-46f8-97f21f39ff3d/mzl.gvcxwqam.png/460x0w.webp",
+            "price": "$7.99",
+            "bgImage": "https://media.rawg.io/media/games/6d3/6d33014a4ed48a19c30a77ead5a0f62e.jpg",
+            "genres": [
+                {
+                    "id": 34,
+                    "name": "Educational",
+                    "slug": "educational"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Pascal's Wager",
+            "href": "https://apps.apple.com/app/id1476649036",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/21/a2/d5/21a2d583-3b16-01b3-aad6-84b716e44fb3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/345/345c085b63ec1819f2e3d80d9bab18b5_diD5exL.jpg",
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Plague Inc.",
+            "href": "https://apps.apple.com/app/id525818839",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/11/3d/9c/113d9c2c-c8a6-8257-5111-3541527dd933/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$0.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/0f8/0f8f34410d8f86a5c528a421b2429485.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Planescape: Torment",
+            "href": "https://apps.apple.com/app/id1138916291",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/12/7c/0e127cdc-92d2-b1c5-743a-9e7cdb49b349/mzl.xtdjxtos.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/games/1c7/1c761e6bb9f9d47e48cec4484c7186bb.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Playdead's INSIDE",
+            "href": "https://apps.apple.com/app/id1201642309",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/3b/b6/a8/3bb6a81e-b6cf-0e49-2640-938eba3d75aa/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 83,
+                    "name": "Platformer",
+                    "slug": "platformer"
+                }
+            ]
+        },
+        {
+            "title": "Playdead's LIMBO",
+            "href": "https://apps.apple.com/app/id656951157",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/c8/49/c3/c849c39e-3289-e0e0-8390-fbc786a261fb/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.webp",
+            "price": "$3.99",
+            "bgImage": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 83,
+                    "name": "Platformer",
+                    "slug": "platformer"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Pocket Tanks",
+            "href": "https://apps.apple.com/app/id311544087",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/42/10/7e4210a3-3092-6e05-8fcf-977dde60fa1d/AppIcon-1x_U007emarketing-0-9-0-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/screenshots/970/97077947143715c8c6770a02596cce43.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 19,
+                    "name": "Family",
+                    "slug": "family"
+                }
+            ]
+        },
+        {
+            "title": "Project Highrise",
+            "href": "https://apps.apple.com/app/id1277095117",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/8a/d2/1c/8ad21c9a-5d3c-0eef-b728-8fba9f525256/AppIcon-1x_U007emarketing-6-0-85-220.png/460x0w.webp",
+            "price": "$3.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/ca7/ca7b282870202c389f037ecf1ace1b86.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "ROME: Total War",
+            "href": "https://apps.apple.com/app/id1106831630",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/a4/05/21/a4052129-289d-c311-0f7b-0f4867e4e89f/rome_AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/games/d2a/d2a4b12c173f9ffba1c384a0607a3aea.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Rebel Inc.",
+            "href": "https://apps.apple.com/app/id1439187947",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/6c/a5/5a/6ca55ab0-a2c2-9f98-1470-34c67b8bb4ca/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$1.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/837/837b55c958ae9df4dda29c7f6bb0243f_CgIIILw.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Rogue Legacy",
+            "href": "https://apps.apple.com/app/id1453189467",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/b5/7e/77/b57e778c-03a5-940d-5c93-821b1f5619ee/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$3.99",
+            "bgImage": "https://media.rawg.io/media/games/598/59851e152a6898c8bf79069b5bf2f4db.jpg",
+            "genres": [
+                {
+                    "id": 83,
+                    "name": "Platformer",
+                    "slug": "platformer"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "RollerCoaster Tycoon® 3",
+            "href": "https://apps.apple.com/app/id1008692660",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/55/00/e4/5500e4ec-7f8e-afc5-1c4b-49ff89bbacfe/mzl.umjqgugz.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/2c3/2c322766dac43406bc3bb24fcd37c4b5.jpeg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "RollerCoaster Tycoon® Classic",
+            "href": "https://apps.apple.com/app/id1113736426",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/05/f3/c505f3ae-e91c-5c38-2985-9eb62abfa181/AppIcon-1x_U007emarketing-0-85-220-0-9.png/460x0w.webp",
+            "price": "$5.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/7dc/7dc9e27d38e7e2ec0060c1403764bc76.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "RuneScape",
+            "href": "https://apps.apple.com/app/id1332022656",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/d5/5b/add55b2a-8e26-5cb2-510c-6d95a87cc680/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/007/0073b6418763a47eb023fba88cb22e7c.jpg",
+            "genres": [
+                {
+                    "id": 59,
+                    "name": "Massively Multiplayer",
+                    "slug": "massively-multiplayer"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "SNKRX",
+            "href": "https://apps.apple.com/app/id1572602587",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/9f/29/9c/9f299c18-632e-7fab-5c34-b62fd6497a5d/iOS_AppIcon-1x_U007emarketing-0-6-0-85-220.png/460x0w.webp",
+            "price": "$2.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/f66/f6642ad99edb0e9a1c0c638caeb5f8aa.jpg",
+            "genres": [
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Sanitarium",
+            "href": "https://apps.apple.com/app/id1008783470",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/c8/07/ac/c807ac85-56d5-50ad-75c3-0c3d2e2b480a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$3.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/d42/d421e190c614680af3782d2cf016cf9e.jpeg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Scribblenauts Unlimited",
+            "href": "https://apps.apple.com/app/id1030902626",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/a5/10/54/a51054de-c58f-26f2-3a4d-dd00648eea70/AppIcon-1x_U007emarketing-85-220-5.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/42d/42d770eb49f2ba01cd4045e0d92af7a9.jpg",
+            "genres": [
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Secret of Mana",
+            "href": "https://apps.apple.com/app/id407949800",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/30/11/b3/3011b39d-24aa-6f95-dc73-a3828e18c104/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$7.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/ece/ecefa59f319f7d454117ad47c5360bdc.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Sid Meier's Civilization® VI",
+            "href": "https://apps.apple.com/app/id1235863443",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/2f/d2/38/2fd238bd-808b-5bed-65f4-408672b292a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/997/997ab4d67e96fb20a4092383477d4463.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Siege of Dragonspear",
+            "href": "https://apps.apple.com/app/id1298734617",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/20/fc/a7/20fca7b0-7ea3-e32d-4a38-873aa9ad0fe9/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/5d4/5d4748513cbe3dc85a64c8416c52dcf7.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Slay the Spire",
+            "href": "https://apps.apple.com/app/id1491530147",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/e1/b7/47/e1b747f3-2aba-8c5f-dca2-473e152c1e4f/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/games/f52/f5206d55f918edf8ee07803101106fa6.jpg",
+            "genres": [
+                {
+                    "id": 17,
+                    "name": "Card",
+                    "slug": "card"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "SpongeBob SquarePants",
+            "href": "https://apps.apple.com/app/id1523633394",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/24/be/b2/24beb282-3c76-77fa-9b13-0b9788794b3e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/b38/b38d21b9ed0263eb5e61c569d67dffa4.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Star Traders: Frontiers",
+            "href": "https://apps.apple.com/app/id1442583232",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/b8/28/ebb8282e-9e88-5b32-a35d-faf72e2863f9/AppIcon-Elite-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$2.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/2cc/2cc4b28acc09b8024859f6ef6594cd35.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Star Wars™: KOTOR",
+            "href": "https://apps.apple.com/app/id611436052",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/5f/b6/f9/5fb6f9f5-90c3-d3d7-6a29-693e0e9917b2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/aba/aba716fc2cc2539a94410703bd1c30a2.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                }
+            ]
+        },
+        {
+            "title": "Star Wars™: KOTOR II",
+            "href": "https://apps.apple.com/app/id963230767",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/81/05/0b/81050b1f-ad6b-96ca-372c-eb6ebbb1a815/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$14.99",
+            "bgImage": "https://media.rawg.io/media/games/662/6625a20ca1d13699ee7c191b20a02408.jpg",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Stardew Valley",
+            "href": "https://apps.apple.com/app/id1406710800",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/6c/de/f6/6cdef6d5-98b2-8729-e44c-1f4fa2c2a775/AppIcons-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "SteamWorld Heist",
+            "href": "https://apps.apple.com/app/id1093396572",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/9a/08/b9/9a08b9ae-d028-e44f-baa3-e548b29785e7/mzl.hmovorpn.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/e49/e49256363789d1dec316edf8ebb27ccf.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 83,
+                    "name": "Platformer",
+                    "slug": "platformer"
+                }
+            ]
+        },
+        {
+            "title": "Sunless Sea",
+            "href": "https://apps.apple.com/app/id1133500069",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple127/v4/3d/f0/73/3df073a0-c7fa-5f35-c03f-c261cfc54b08/mzl.pncipzne.jpg/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/games/c32/c323f9c17ac95c363772bb9ff3693dc6.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Surgeon Simulator",
+            "href": "https://apps.apple.com/app/id814977594",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/da/2b/4e/da2b4ed2-2af9-afdf-da61-8900dca233ca/mzl.jddifmvd.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/ca8/ca840f2a8ebfc74aac1688367dc1f903.jpg",
+            "genres": [
+                {
+                    "id": 34,
+                    "name": "Educational",
+                    "slug": "educational"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "TFT: Teamfight Tactics",
+            "href": "https://apps.apple.com/app/id1480616748",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/dd/14/f3/dd14f34e-579c-419d-391d-98a48ef95cba/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/f4f/f4fe38e8fc3948fe5c682554dee39248.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                }
+            ]
+        },
+        {
+            "title": "THE LAST REMNANT Remastered",
+            "href": "https://apps.apple.com/app/id1357536697",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ee/4f/b3/ee4fb37f-187e-b293-30b2-a32a34720525/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/460x0w.webp",
+            "price": "$19.99",
+            "bgImage": "https://media.rawg.io/media/games/af2/af220b156b4d0e2f5d8a81f33136244d.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Tales of the Neon Sea",
+            "href": "https://apps.apple.com/app/id1517566159",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/76/9a/6c/769a6c9b-3305-b692-86d3-f55fed713dde/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/screenshots/f5a/f5a3608ff733c22ce719c235fd855a2a.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "Terraria",
+            "href": "https://apps.apple.com/app/id640364616",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b8/0a/91/b80a9174-8432-31e7-1e46-cdf6c6d40f1f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
+            "genres": [
+                {
+                    "id": 83,
+                    "name": "Platformer",
+                    "slug": "platformer"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Force",
+            "href": "https://apps.apple.com/app/id1572242486",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/00/73/a1/0073a1dc-334d-4a1e-5317-80007134d0b7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$5.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/c89/c89908bd96ab62e31844254307df8c57.jpg",
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                },
+                {
+                    "id": 11,
+                    "name": "Arcade",
+                    "slug": "arcade"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                }
+            ]
+        },
+        {
+            "title": "Tesla vs Lovecraft",
+            "href": "https://apps.apple.com/app/id1212868423",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c2/d8/e6/c2d8e6ce-3a73-36ad-4a71-283d15d5b4df/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$8.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/dbd/dbd921ec28a06f59d4745ea19fd5b079.jpg",
+            "genres": [
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 11,
+                    "name": "Arcade",
+                    "slug": "arcade"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Teslagrad",
+            "href": "https://apps.apple.com/app/id1374372468",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ca/fa/75/cafa7512-91e5-2478-ec3c-ba525fa7bd13/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/351/351ee0915fcd5a64e976791794039d5c.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                },
+                {
+                    "id": 19,
+                    "name": "Family",
+                    "slug": "family"
+                },
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 83,
+                    "name": "Platformer",
+                    "slug": "platformer"
+                }
+            ]
+        },
+        {
+            "title": "The Bard's Tale",
+            "href": "https://apps.apple.com/app/id480375355",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/bb/ad/e4/bbade4ec-e709-9e79-1e94-a92d176a0dc8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$2.99",
+            "bgImage": "https://media.rawg.io/media/games/910/910ddce5a667ef9f6c0933bd6def94ba.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "The Escapists: Prison Escape",
+            "href": "https://apps.apple.com/app/id1005658093",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/29/b6/0b/29b60ba2-956f-a181-8e2f-c2c191d82b7d/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/ee3/ee33f3ed5992dc23b92cd5b81a8bf7e0_fkOoZ10.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                }
+            ]
+        },
+        {
+            "title": "The Talos Principle",
+            "href": "https://apps.apple.com/app/id1250484428",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/03/9e/7b/039e7b38-223c-e6a7-e0fd-0fae94f6fbd3/AppIcon-1x_U007emarketing-85-220-0-5.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/948/948fe7f00b6cba8472f5ecd07a455077.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "The Unfinished Swan",
+            "href": "https://apps.apple.com/app/id1490196582",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/41/e8/bb/41e8bb9f-99bf-7a1d-00ff-da24451adc65/AppIcon-1x_U007emarketing-0-7-0-GLES2_U002c0-85-220.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/5a3/5a335ee04477c97d393e8ba03f8e6d91.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "The Witcher Tales",
+            "href": "https://apps.apple.com/app/id1564265387",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/d1/29/ea/d129ea99-2f21-367e-27b5-5034d695b69e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "bgImage": "https://media.rawg.io/media/games/157/157001cc7d47ff89ac3082d4bf0373d0.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "The Witness",
+            "href": "https://apps.apple.com/app/id1230231705",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a8/3b/b3/a83bb3ed-719a-6839-a259-f17a11a9cc07/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/9d2/9d22689a1c2a7ced9d1690e0c5c66871.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "TheWorldEndswithYou: SoloRemix",
+            "href": "https://apps.apple.com/app/id544695089",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/43/5b/f0/435bf0b4-ebf9-4378-19ee-29b02dcdcf44/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$17.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/938/938d7728d3126449eeeb4d5fa4ff58b0.jpg",
+            "genres": [
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "TheWorldEndswithYouSoloRemixHD",
+            "href": "https://apps.apple.com/app/id545042359",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/d9/8e/aa/d98eaafd-8025-aa5a-8f7d-fce1079add1a/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$19.99"
+        },
+        {
+            "title": "Thimbleweed Park",
+            "href": "https://apps.apple.com/app/id1228969539",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/0d/b6/8d/0db68d4e-5cda-c949-bfca-dde06cf8a767/mzl.khcujicw.png/460x0w.webp",
+            "price": "$9.99",
+            "bgImage": "https://media.rawg.io/media/games/bcd/bcd1dad21dcaec5426c8dfa61e7b1373.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ]
+        },
+        {
+            "title": "This Is the Police",
+            "href": "https://apps.apple.com/app/id1435461053",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/ef/a5/b0/efa5b01f-4ad0-7069-aca2-6c26c436c3a5/AppIcon-0-1x_U007emarketing-0-85-220-9.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/games/6cc/6cc68fa183b905ac9d85efb9797776f6.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "This Is the Police 2",
+            "href": "https://apps.apple.com/app/id1453820315",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/97/c0/2a/97c02aca-aaee-7631-5d5f-3ab2d732ba2b/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/460x0w.webp",
+            "price": "$6.99",
+            "bgImage": "https://media.rawg.io/media/games/359/359ed2ec421d8efa3b45f37ccc25a297.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "This War of Mine",
+            "href": "https://apps.apple.com/app/id982175678",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/40/00/8f/40008fe3-e6ee-6330-6e42-8ee5e9922c5d/AppIcon-1x_U007emarketing-0-10-85-220.png/460x0w.webp",
+            "price": "$1.99",
+            "bgImage": "https://media.rawg.io/media/games/283/283e7e600366b0da7021883d27159b27.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Thumper: Pocket Edition",
+            "href": "https://apps.apple.com/app/id1287138671",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/a5/f1/11/a5f111ea-c521-2ff1-6a43-fac0616f0460/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/8ab/8ab8031f3c3497e9d289e305bc2e3edb.jpg",
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Titan Quest: Legendary Edition",
+            "href": "https://apps.apple.com/app/id1537060891",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/53/39/8f533932-5d06-4566-44c6-dd2782861257/AppIcon_FullEdition-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$12.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/dc6/dc6897f440610880f13cda7435865706.jpg",
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Transistor",
+            "href": "https://apps.apple.com/app/id948857526",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/28/35/d2/2835d23a-ca67-8c72-2e1b-a5069b8be8ef/AppIcon-1x_U007emarketing-85-220-5.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/d1f/d1f872a48286b6b751670817d5c1e1be.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Trials of Mana",
+            "href": "https://apps.apple.com/app/id1552176109",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/71/74/ea/7174eadb-d06f-2d50-ba12-fbfc8904c8e3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$23.99",
+            "bgImage": "https://media.rawg.io/media/games/c94/c94a425492edbb2d22867bd6150bdbc2.jpg",
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "Tropico",
+            "href": "https://apps.apple.com/app/id1264531625",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/7a/b8/a07ab86b-5d60-c798-f847-6b161b47b036/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$11.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/d02/d0243a3d912bf86080e4dbb31f61c15e.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ]
+        },
+        {
+            "title": "Undead Horde",
+            "href": "https://apps.apple.com/app/id1388267373",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/58/e6/5e/58e65ef2-3dcf-2423-3a7e-12c85b2097da/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$5.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/747/74761d1f597c1409fa3af470ba2bfd0a.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ]
+        },
+        {
+            "title": "What Remains of Edith Finch",
+            "href": "https://apps.apple.com/app/id1508051949",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/9b/ff/6c9bffa0-09cc-b70f-ce72-bcc1bd5b22f6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/games/34e/34e100b1f648de99f32d477065f04653.jpg",
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                }
+            ]
+        },
+        {
+            "title": "White Night",
+            "href": "https://apps.apple.com/app/id1243555377",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/0d/af/c9/0dafc99d-2081-908b-b7e5-164edb9aae48/AppIcon_Playdigious-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/bb3/bb30d5157a8ef647192d10140eabc7b6.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        },
+        {
+            "title": "Worms3",
+            "href": "https://apps.apple.com/app/id596677177",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/67/93/7c/67937cd2-0907-bbec-8987-4ecf0442411a/mzl.vjzejqyc.png/460x0w.webp",
+            "price": "$4.99",
+            "bgImage": "https://media.rawg.io/media/screenshots/77b/77b24bc3acb5618981d62ca1759c32e3.jpg",
+            "genres": [
+                {
+                    "id": 10,
+                    "name": "Strategy",
+                    "slug": "strategy"
+                },
+                {
+                    "id": 11,
+                    "name": "Arcade",
+                    "slug": "arcade"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ]
+        }
+    ]
+}
