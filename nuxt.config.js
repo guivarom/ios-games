@@ -2,7 +2,7 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   router: {
-    base: '/guivarom/ios-games/'
+    base: '/ios-games/'
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {

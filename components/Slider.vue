@@ -1,6 +1,6 @@
 <template>
   <div class="slider">
-   <game-card class="card" v-for="item in cards" :key="item" :game="item" />
+   <game-card class="card" v-for="item in cards" :key="item.href" :game="item" />
   </div>
 </template>
 <script>

@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg">
   <div class="container-fluid">
-    <a class="navbar-brand" href="/">Recommended IOS Games</a>
+    <nuxt-link class="navbar-brand" to="/">Recommended IOS Games</nuxt-link>
   </div>
 </nav>
 </template>

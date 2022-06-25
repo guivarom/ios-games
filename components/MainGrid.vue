@@ -1,27 +1,9 @@
 <template>
   <section>
-    <b-carousel
-      :interval="4000"
-      controls
-      indicators
-      background="#ababab"
-      img-height="925"
-      class="carousel"
-      style="text-shadow: 1px 1px 2px #333; height: 480px;"
-    >
-      <!-- Text slides with image -->
-      <a target="_blank" :href="slide.href" :key="slide.title" v-for="slide in slides"><b-carousel-slide
-       
-        :caption="slide.title"
-        :img-src="slide.bgImage"
-        @click="openNewTab(slide)"
-      ></b-carousel-slide></a>
-    </b-carousel>
-
     <section v-for="genre in genres" :key="genre">
-      <a :href="'/genre/' + genre">
+      <nuxt-link :to="'/genre/' + genre">
         <h3>{{ genre }} games</h3>
-      </a>
+      </nuxt-link>
       <slider :cards="find(genre)"></slider>
     </section>
   </section>
