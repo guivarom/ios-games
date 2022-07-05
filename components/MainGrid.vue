@@ -1,11 +1,21 @@
 <template>
   <section>
-    <section v-for="genre in genres" :key="genre">
-      <nuxt-link :to="'/genre/' + genre">
-        <h3>{{ genre }} games</h3>
-      </nuxt-link>
-      <slider :cards="find(genre)"></slider>
-    </section>
+     <b-table stacked="sm" class="color-white" striped :items="games" :fields="fields">
+       <!-- A custom formatted column -->
+      <template #cell(cover)="data">
+        <img :src="data.item.cover" :alt="data.title" class="cover"/>
+      </template>
+       <template #cell(title)="data">
+        <a :href="data.item.href"  target="_blank" > {{data.item.title}}</a>
+      </template>
+       <template #cell(genres)="data">
+        <span>
+          <nuxt-link v-for="g in (data.item.genres || []).sort((a,b) => a.name - b.name)" :key="g.name" :to="'/genre/' + g.slug">
+            {{g.name}}
+          </nuxt-link>
+        </span>
+      </template>
+     </b-table>
   </section>
 </template>
 <script>
@@ -15,7 +25,14 @@ import * as _ from "lodash";
 @Component()
 export default class MainGrid extends Vue {
   @Prop() games;
-  @Prop() genres;
+  get fields() {
+    return [
+      'cover',
+      { key: 'title', sortable: true },
+      { key: 'price', sortable: true },
+      'genres'
+    ]
+  }
 
   get slides() {
     if (!this.games) {
@@ -24,9 +41,9 @@ export default class MainGrid extends Vue {
       return _.shuffle(this.games).splice(0, 5);
     }
   }
-  find(genre) {
+  find(query) {
     return (this.games || []).filter(
-      (g) => g && g.genres && g.genres.find((g) => g.name === genre)
+      (g) => g && g.genres && g.genres.find((genre) => genre.slug === query)
     );
   }
   openNewTab(slide) {
@@ -53,11 +70,17 @@ export default class MainGrid extends Vue {
   overflow: hidden;
 }
 
-
+.cover {
+  height: 10vh;
+  width: auto;
+}
 </style>
 <style lang="scss">
 .carousel-caption {
   top: 25%;
   text-shadow: 3px 3px 8px #333;
+}
+.color-white td, .color-white th{
+  color: white!important;
 }
 </style>
