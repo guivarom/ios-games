@@ -1,21 +1,49 @@
 <template>
   <section>
-     <b-table stacked="sm" class="color-white" striped :items="games" :fields="fields">
-       <!-- A custom formatted column -->
-      <template #cell(cover)="data">
-        <img :src="data.item.cover" :alt="data.title" class="cover"/>
-      </template>
-       <template #cell(title)="data">
-        <a :href="data.item.href"  target="_blank" > {{data.item.title}}</a>
-      </template>
-       <template #cell(genres)="data">
-        <span>
-          <nuxt-link v-for="g in (data.item.genres || []).sort((a,b) => a.name - b.name)" :key="g.name" :to="'/genre/' + g.slug">
-            {{g.name}}
-          </nuxt-link>
-        </span>
-      </template>
-     </b-table>
+     <b-table-simple dark striped>
+       <b-thead>
+         <b-th></b-th>
+         <b-th>Title</b-th>
+         <b-th>Price</b-th>
+         <b-th>Genres</b-th>
+         <b-th>Screenshot</b-th>
+         <b-th>Also available on</b-th>
+       </b-thead>
+      <b-tbody> 
+        <b-tr v-for="item of games" :key="item.href">
+          <b-td>
+            <img :src="item.cover" loading="lazy" :alt="item.title" class="cover"/>
+          </b-td>
+          <b-td> <a :href="item.href">{{ item.title }}</a></b-td>
+          <b-td> {{ item.price }} </b-td>
+          <b-td>
+            <a v-for="genre in item.genres"
+              :key="genre.name"
+              target="_blank"
+              :href="'/ios-games/genre/' + genre.slug">
+              {{ genre.name }}
+            </a>
+          </b-td>
+          <b-td>
+            <a v-if="item.screenshots && item.screenshots.length && item.screenshots.length > 1"
+              target="_blank"
+              class="with-delimiter"
+              :href="item.screenshots[1].image">
+              <img loading="lazy" style="max-height: 10vh;" :src="item.screenshots[1].image" />
+            </a>
+          </b-td>
+          <b-td>
+            <a v-for="p in (item.platforms || [])"
+              class="with-delimiter"
+              target="_blank"
+              :key="p.platform.slug + '-' + item.href"
+              :href="'/ios-games/platform/' + p.platform.slug">
+            {{ p.platform.name }}
+            </a>
+          </b-td>
+        </b-tr>
+      </b-tbody>
+     </b-table-simple>
   </section>
 </template>
 <script>
@@ -28,9 +56,12 @@ export default class MainGrid extends Vue {
   get fields() {
     return [
       'cover',
-      { key: 'title', sortable: true },
-      { key: 'price', sortable: true },
-      'genres'
+      'title',
+      'price',
+      // { key: 'title' },
+      // { key: 'price' },
+      // 'genres',
+      // { key: 'platforms', label: 'Also available on'}
     ]
   }
 
@@ -46,6 +77,10 @@ export default class MainGrid extends Vue {
       (g) => g && g.genres && g.genres.find((genre) => genre.slug === query)
     );
   }
+  sortPlatforms(item) {
+    return (item.platforms || []).sort((a,b) => a.platform.name - b.platform.name).filter(p => p.platform.name !== 'iOS')
+  }
+
   openNewTab(slide) {
     window.open(slide.href);
   }
@@ -73,6 +108,11 @@ export default class MainGrid extends Vue {
 .cover {
   height: 10vh;
   width: auto;
+}
+
+.with-delimiter::after {
+  content: '|';
+  color: white;
 }
 </style>
 <style lang="scss">
