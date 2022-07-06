@@ -15965,6 +15965,496 @@
                     "image": "https://media.rawg.io/media/screenshots/dbd/dbddeaf18c6352c844fed8f1b8c98188.jpeg"
                 }
             ]
+        },
+        {
+            "href": "https://apps.apple.com/us/app/ace-attorney-trilogy/id1621065119",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/c6/6f/00c66fb0-2155-e80e-c811-b67de1795236/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp",
+            "price": "$24.99",
+            "title": "Ace Attorney Trilogy ",
+            "bgImage": "https://media.rawg.io/media/games/3e5/3e55a40ff233aacf63f96ea80fcc7234.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "Xbox One",
+                        "slug": "xbox-one"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 18,
+                        "name": "PlayStation 4",
+                        "slug": "playstation4"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo Switch",
+                        "slug": "nintendo-switch"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 3,
+                        "name": "iOS",
+                        "slug": "ios"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 8,
+                        "name": "Nintendo 3DS",
+                        "slug": "nintendo-3ds"
+                    }
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/3e5/3e55a40ff233aacf63f96ea80fcc7234.jpg"
+                },
+                {
+                    "id": 1853832,
+                    "image": "https://media.rawg.io/media/screenshots/655/65591b04a29b1173eae5f24099880634.jpg"
+                },
+                {
+                    "id": 1853833,
+                    "image": "https://media.rawg.io/media/screenshots/342/342e7a68035e8354c0ca51e4ed1ec4db.jpg"
+                },
+                {
+                    "id": 1853834,
+                    "image": "https://media.rawg.io/media/screenshots/45c/45cb41965266ea0f75179da495a81be3.jpg"
+                },
+                {
+                    "id": 1853835,
+                    "image": "https://media.rawg.io/media/screenshots/f94/f946c4b8f394ccc7f7bda6b12da879ca.jpg"
+                },
+                {
+                    "id": 1853836,
+                    "image": "https://media.rawg.io/media/screenshots/c00/c00e2f3a19d1f2f8cab7601931b90b03.jpg"
+                },
+                {
+                    "id": 1853837,
+                    "image": "https://media.rawg.io/media/screenshots/80e/80ef7f3825ac722c293fa3d446fdc727.jpg"
+                }
+            ]
+        },
+        {
+            "href": "https://apps.apple.com/us/app/ace-attorney-investigations/id1227608370",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/38/46/32/384632a6-f932-db68-4847-49c620493262/mzl.imrvcudq.png/460x0w.webp",
+            "price": "$0.99",
+            "title": "Ace Attorney INVESTIGATIONS ",
+            "bgImage": "https://media.rawg.io/media/screenshots/0a3/0a30bb59b5abac2f51e7545bf1580fee.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 3,
+                        "name": "iOS",
+                        "slug": "ios"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 21,
+                        "name": "Android",
+                        "slug": "android"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 9,
+                        "name": "Nintendo DS",
+                        "slug": "nintendo-ds"
+                    }
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/0a3/0a30bb59b5abac2f51e7545bf1580fee.jpg"
+                },
+                {
+                    "id": 2049525,
+                    "image": "https://media.rawg.io/media/screenshots/19b/19bad4b31098d56a1fb67e90a9caabe3_JrTsbqk.jpg"
+                },
+                {
+                    "id": 2049526,
+                    "image": "https://media.rawg.io/media/screenshots/bc1/bc17136f11d367d5bacd8d0d6ac3f7ff.jpg"
+                },
+                {
+                    "id": 2049527,
+                    "image": "https://media.rawg.io/media/screenshots/28a/28ad5fd1e6fc398ea175986c3ddbe5f4.jpg"
+                },
+                {
+                    "id": 2049528,
+                    "image": "https://media.rawg.io/media/screenshots/ab1/ab1cf9e16b1a8fe2a20d3c31bb9371f8_yTfAPHf.jpg"
+                },
+                {
+                    "id": 2049529,
+                    "image": "https://media.rawg.io/media/screenshots/7af/7af6772f3ebbbd722a18bdc64739a2dd_QJ7HIQn.jpg"
+                },
+                {
+                    "id": 246534,
+                    "image": "https://media.rawg.io/media/screenshots/40e/40e0933ac422bc65d5ff6738fffdd75b.jpg"
+                }
+            ]
+        },
+        {
+            "href": "https://apps.apple.com/us/app/ace-attorney-spirit-of-justice/id1248661960",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/11/61/06/11610682-ee72-5108-2d79-8f3508b4d574/iOSAppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp",
+            "price": "$0.99",
+            "title": "Ace Attorney Spirit of Justice ",
+            "bgImage": "https://media.rawg.io/media/screenshots/1d5/1d5d31553053ca53acd1cc5727826556.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 3,
+                        "name": "iOS",
+                        "slug": "ios"
+                    }
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/1d5/1d5d31553053ca53acd1cc5727826556.jpg"
+                },
+                {
+                    "id": 2049491,
+                    "image": "https://media.rawg.io/media/screenshots/b2a/b2a417cd882009e14a5bd69d8855ba81.jpg"
+                },
+                {
+                    "id": 2049492,
+                    "image": "https://media.rawg.io/media/screenshots/636/63668bc9afd7e1924694d26c40b33a3a_DfGngXX.jpg"
+                },
+                {
+                    "id": 2049493,
+                    "image": "https://media.rawg.io/media/screenshots/1ca/1ca46c4eb2f8d024c22aead4c7b5bdea.jpg"
+                },
+                {
+                    "id": 2049494,
+                    "image": "https://media.rawg.io/media/screenshots/7e4/7e4e9008aee47563543a73d8a19848dd.jpg"
+                },
+                {
+                    "id": 2049495,
+                    "image": "https://media.rawg.io/media/screenshots/dfc/dfcd279f4f3c95ffa99a1ab798dbe157.jpg"
+                },
+                {
+                    "id": 935201,
+                    "image": "https://media.rawg.io/media/screenshots/e2e/e2ec14dba9faa427a051ea2fa3770d16.jpg"
+                }
+            ]
+        },
+        {
+            "href": "https://apps.apple.com/us/app/street-fighter-iv-ce/id1239299402",
+            "cover": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/ee/ae/30/eeae304e-66bc-d41e-4e1b-b02e03164dba/AppIcon-1x_U007emarketing-0-8-0-85-220.png/460x0w.webp",
+            "price": "$4.99",
+            "title": "Street Fighter IV CE ",
+            "bgImage": "https://media.rawg.io/media/screenshots/1e1/1e110a2aeb156b1e431299aaf3f47796_sQMKT5x.jpg",
+            "genres": [
+                {
+                    "id": 40,
+                    "name": "Casual",
+                    "slug": "casual"
+                },
+                {
+                    "id": 11,
+                    "name": "Arcade",
+                    "slug": "arcade"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 3,
+                        "name": "iOS",
+                        "slug": "ios"
+                    }
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/1e1/1e110a2aeb156b1e431299aaf3f47796_sQMKT5x.jpg"
+                },
+                {
+                    "id": 2049437,
+                    "image": "https://media.rawg.io/media/screenshots/15f/15f2617aca851d4f9c2e3f0cc5a0c11d.jpg"
+                },
+                {
+                    "id": 2049438,
+                    "image": "https://media.rawg.io/media/screenshots/232/232a68fd04b762b80cbb2df230c1630d.jpg"
+                },
+                {
+                    "id": 2049439,
+                    "image": "https://media.rawg.io/media/screenshots/918/918b130ce7119ffd02a24014cc969d7e_rZbfKCC.jpg"
+                },
+                {
+                    "id": 2049440,
+                    "image": "https://media.rawg.io/media/screenshots/2b3/2b3a9d651109eb019d2eccff2d1a50fb.jpg"
+                },
+                {
+                    "id": 2049441,
+                    "image": "https://media.rawg.io/media/screenshots/ba4/ba4efede4482638ab5c8d7266b25c053_VrBjT4e.jpg"
+                },
+                {
+                    "id": 2049442,
+                    "image": "https://media.rawg.io/media/screenshots/20c/20c2320913865efc21621acaf5e32b8a_RwyrA9F.jpg"
+                }
+            ]
+        },
+        {
+            "href": "https://apps.apple.com/us/app/ghost-trick-phantom-detective/id489113377",
+            "cover": "https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/e6/9d/1a/e69d1a66-a96a-b784-5291-967d12bcb63b/AppIcon-1x_U007emarketing-0-9-0-85-220.png/460x0w.webp",
+            "price": "Free",
+            "title": "GHOST TRICK: Phantom Detective ",
+            "bgImage": "https://media.rawg.io/media/screenshots/d28/d28f2dea4473d7abee535eb78bee71cf.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 3,
+                        "name": "iOS",
+                        "slug": "ios"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 9,
+                        "name": "Nintendo DS",
+                        "slug": "nintendo-ds"
+                    }
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/d28/d28f2dea4473d7abee535eb78bee71cf.jpg"
+                },
+                {
+                    "id": 2049412,
+                    "image": "https://media.rawg.io/media/screenshots/4a9/4a958dbda0ea05767f48bed572a8642d_7v4NTuQ.jpg"
+                },
+                {
+                    "id": 2049413,
+                    "image": "https://media.rawg.io/media/screenshots/045/0459acb34d692a8ab322573c610a0bea_kxuKMRZ.jpg"
+                },
+                {
+                    "id": 2049414,
+                    "image": "https://media.rawg.io/media/screenshots/e9b/e9bda1ad61e0258b027bb46bc532a5e5_0zZiEzo.jpg"
+                },
+                {
+                    "id": 2049415,
+                    "image": "https://media.rawg.io/media/screenshots/2bc/2bc3a51dee6f200ee76da817affeaa9b_eIRjohV.jpg"
+                },
+                {
+                    "id": 2049416,
+                    "image": "https://media.rawg.io/media/screenshots/941/9413463c0199693ff5f94b233a14882d_BMkzKIT.jpg"
+                },
+                {
+                    "id": 2118734,
+                    "image": "https://media.rawg.io/media/screenshots/2c9/2c9ba72219b30f3d3172147353e5aa17.jpg"
+                }
+            ]
+        },
+        {
+            "href": "https://apps.apple.com/us/app/ace-attorney-dual-destinies/id882362024",
+            "cover": "https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/61/30/a4/6130a493-cdda-f5b2-7645-1b44f310710d/iOSAppIconEng-1x_U007emarketing-0-6-85-220.png/460x0w.webp",
+            "price": "$0.99",
+            "title": "Ace Attorney: Dual Destinies ",
+            "bgImage": "https://media.rawg.io/media/screenshots/0c7/0c75072a8d22538bdd6a6df0c5337cbd.jpg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 3,
+                        "name": "iOS",
+                        "slug": "ios"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 21,
+                        "name": "Android",
+                        "slug": "android"
+                    }
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/0c7/0c75072a8d22538bdd6a6df0c5337cbd.jpg"
+                },
+                {
+                    "id": 2049349,
+                    "image": "https://media.rawg.io/media/screenshots/70d/70ddc5541993884463cd478abacaa28c.jpg"
+                },
+                {
+                    "id": 2049350,
+                    "image": "https://media.rawg.io/media/screenshots/40a/40a86c1b8d5725e89cdc8a9f7b394962.jpg"
+                },
+                {
+                    "id": 2049351,
+                    "image": "https://media.rawg.io/media/screenshots/ffb/ffb5020422f6fc16dd1ddfa33f1a3838_0WImW6J.jpg"
+                },
+                {
+                    "id": 2049352,
+                    "image": "https://media.rawg.io/media/screenshots/4d1/4d123187b802907219745cc31da88265.jpg"
+                },
+                {
+                    "id": 2049353,
+                    "image": "https://media.rawg.io/media/screenshots/2c8/2c82b0809550fbfb8ee1e4d984932ca3.jpg"
+                },
+                {
+                    "id": 933888,
+                    "image": "https://media.rawg.io/media/screenshots/d00/d004a8142743d0fd6d7a56f42ad6ebef_CdBuaoA.jpg"
+                }
+            ]
+        },
+        {
+            "href": "https://apps.apple.com/us/app/apollo-justice-ace-attorney/id1136993233",
+            "cover": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a4/e8/75/a4e87528-9e49-b90c-0690-c524c2c30108/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+            "price": "$0.99",
+            "title": "Apollo Justice Ace Attorney ",
+            "bgImage": "https://media.rawg.io/media/screenshots/1ac/1ac8e4433f332827a52aa43b3786d737.jpeg",
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 3,
+                        "name": "iOS",
+                        "slug": "ios"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 21,
+                        "name": "Android",
+                        "slug": "android"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 8,
+                        "name": "Nintendo 3DS",
+                        "slug": "nintendo-3ds"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 9,
+                        "name": "Nintendo DS",
+                        "slug": "nintendo-ds"
+                    }
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/1ac/1ac8e4433f332827a52aa43b3786d737.jpeg"
+                },
+                {
+                    "id": 2049471,
+                    "image": "https://media.rawg.io/media/screenshots/be5/be58eb320ae95dd51b1512407e187a9d.jpg"
+                },
+                {
+                    "id": 2049472,
+                    "image": "https://media.rawg.io/media/screenshots/5b0/5b0e0e77e7993fe32ef25c38efb77942.jpg"
+                },
+                {
+                    "id": 2049473,
+                    "image": "https://media.rawg.io/media/screenshots/2c7/2c7f995dd2ea3af3eab4d81187e9b5a6.jpg"
+                },
+                {
+                    "id": 2049474,
+                    "image": "https://media.rawg.io/media/screenshots/ec9/ec9536c4eaa654e7d4921c1c43917d16.jpg"
+                },
+                {
+                    "id": 2049475,
+                    "image": "https://media.rawg.io/media/screenshots/dc5/dc53e50d972aae59970d28923edb2215.jpg"
+                },
+                {
+                    "id": 249505,
+                    "image": "https://media.rawg.io/media/screenshots/d12/d123b9ec9b0a6b14ada76de1a7142f25.jpg"
+                }
+            ]
         }
     ]
 }
