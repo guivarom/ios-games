@@ -1,9 +1,7 @@
 <template>
   <layout>
-    <div class="container">
-      <h1>{{ genreToFind }} games ({{ games.length }})</h1>
-      <main-grid :games="games"/>
-    </div>
+    <h1>{{ genreToFind }} games ({{ games.length }})</h1>
+    <main-grid :games="games"/>
   </layout>
 </template>
 

@@ -1,9 +1,7 @@
 <template>
   <layout>
-    <div class="container">
-      <h1>Also available on {{ platformToFind }}  ({{ games.length }})</h1>
-      <main-grid :games="games"/>
-    </div>
+    <h1>Also available on {{ platformToFind }}  ({{ games.length }})</h1>
+    <main-grid :games="games"/>
   </layout>
 </template>
 

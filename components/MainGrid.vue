@@ -1,6 +1,6 @@
 <template>
   <section>
-     <b-table-simple dark striped>
+     <b-table-simple dark striped stacked="sm">
        <b-thead>
          <b-th></b-th>
          <b-th>Title</b-th>
@@ -15,8 +15,8 @@
             <img :src="item.cover" loading="lazy" :alt="item.title" class="cover"/>
           </b-td>
           <b-td> <a :href="item.href">{{ item.title }}</a></b-td>
-          <b-td> {{ item.price }} </b-td>
-          <b-td>
+          <b-td stacked-heading="Price"> {{ item.price }} </b-td>
+          <b-td stacked-heading="Genre">
             <a v-for="genre in item.genres"
               :key="genre.name"
               target="_blank"
@@ -24,7 +24,7 @@
               {{ genre.name }}
             </a>
           </b-td>
-          <b-td>
+          <b-td stacked-heading="Screenshot">
             <a v-if="item.screenshots && item.screenshots.length && item.screenshots.length > 1"
               target="_blank"
               class="with-delimiter"
@@ -32,7 +32,7 @@
               <img loading="lazy" style="max-height: 10vh;" :src="item.screenshots[1].image" />
             </a>
           </b-td>
-          <b-td>
+          <b-td stacked-heading="Also on">
             <a v-for="p in (item.platforms || [])"
               class="with-delimiter"
               target="_blank"
@@ -109,9 +109,16 @@ export default class MainGrid extends Vue {
   height: 10vh;
   width: auto;
 }
-
+.b-table-stacked-sm .cover {
+  display: flex;
+  margin: auto;
+}
 .with-delimiter::after {
   content: '|';
+  color: white;
+}
+.with-delimiter:last-child:after {
+  content: '';
   color: white;
 }
 </style>
