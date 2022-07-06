@@ -2,6 +2,7 @@
   <nav class="navbar navbar-expand-lg">
   <div class="container-fluid">
     <nuxt-link no-prefetch class="navbar-brand" to="/">Recommended IOS Games</nuxt-link>
+    <nuxt-link no-prefetch class="navbar-brand" to="/about">About</nuxt-link>
   </div>
 </nav>
 </template>

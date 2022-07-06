@@ -5,7 +5,7 @@
       Good luck finding them all, though
     </p>
     <p>
-      Collecting "big" console ports, indie games that had steam release and some community recommendations all in a single page.
+      Collecting "big" console ports, <a href="/ios-games/genre/indie">indie</a> games that had steam release and some community recommendations all in a single page.
     </p>
     <main-grid :genres="genres" :games="games"> </main-grid>
   </layout>
